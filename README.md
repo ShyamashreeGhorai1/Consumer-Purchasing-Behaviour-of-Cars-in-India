@@ -105,23 +105,23 @@
 
           • Major part of the customers belongs to cluster 0 and cluster 2.
 
-     🌱 Selecting Target Segment:
+   🌱 Selecting Target Segment:
 
          Cluster Interpretation:
 
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/75fb1502-8555-4e0a-bf11-6d016d677efd)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/8be312b0-9545-4a63-99f3-eb24775c72f0)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/2b30b539-1ac6-4ddf-902e-d10b61a89289)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/eaf05b49-fb7c-4359-8733-41f08b40eada)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/3f71575b-76c5-4230-aba0-f9269f50940b)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/e6aa00bb-063d-4531-aa65-3770432f5a67)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/b8859917-4e29-4280-9f7b-b667813b823e)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/fc17a4a5-9b21-4730-8480-759003c62400)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/ab2bb4bd-4a34-45da-b160-9af7b8619ba1)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/22fd45d7-3590-4d78-9846-2a80490e6c45)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/961aa476-dd8e-48b7-8a34-9aaa082613ac)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/104404b8-3af8-4924-b8d9-811eeae65f28)
-   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/1f21d7a9-2f39-4621-8e54-db3e7e595f87)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/75fb1502-8555-4e0a-bf11-6d016d677efd)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/8be312b0-9545-4a63-99f3-eb24775c72f0)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/2b30b539-1ac6-4ddf-902e-d10b61a89289)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/eaf05b49-fb7c-4359-8733-41f08b40eada)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/3f71575b-76c5-4230-aba0-f9269f50940b)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/e6aa00bb-063d-4531-aa65-3770432f5a67)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/b8859917-4e29-4280-9f7b-b667813b823e)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/fc17a4a5-9b21-4730-8480-759003c62400)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/ab2bb4bd-4a34-45da-b160-9af7b8619ba1)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/22fd45d7-3590-4d78-9846-2a80490e6c45)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/961aa476-dd8e-48b7-8a34-9aaa082613ac)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/104404b8-3af8-4924-b8d9-811eeae65f28)
+  ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/1f21d7a9-2f39-4621-8e54-db3e7e595f87)
 
     
  
