@@ -108,7 +108,7 @@
  
  🌱 Selecting Target Segment:
 
-         Cluster Interpretation:
+       Cluster Interpretation:
 
   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/75fb1502-8555-4e0a-bf11-6d016d677efd)
   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/8be312b0-9545-4a63-99f3-eb24775c72f0)
@@ -124,5 +124,12 @@
   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/104404b8-3af8-4924-b8d9-811eeae65f28)
   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/1f21d7a9-2f39-4621-8e54-db3e7e595f87)
 
-    
+    Observation:
+
+        • In cluster 3, Salaried and Business professional are almost same. In case of other cluster, salaried professional are more than Business professional.
+        • Cluster 0, Cluster 1 and Cluster 2 do not contain customer with 'Single' Marrital Status. In case of Cluster 3, most of the customers are single.
+        • In Cluster 1, Cluster 2 and Cluster 3, all customers are dependent.
+        • In Cluster 0, most of the customers do not have personal loan. In case of the Cluster 2, customers, have personal loan and do not have personal loan, are almost same.
+        • In Cluster 3, customers do not have any house loan.
+        • In Cluster 0 and Cluster 1, all customer’s wife engage with work. In case of cluster 2, all customer's wife do not engage with work.
  
