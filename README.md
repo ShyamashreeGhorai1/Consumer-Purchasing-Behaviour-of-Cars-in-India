@@ -1,5 +1,5 @@
 
-💭Feynn Labs Internship
+💭 Feynn Labs Internship
 
 
 
@@ -27,6 +27,16 @@
       are 13 features in the dataset with 99 observations. Features of the dataset are: 1) Age 
       2) Profession 3) Marrital Status 4) Education 5) No of Dependents 6) Personal Loan 7) House Loan 
       8) Wife Working 9) Salary 10) Wife Salary 11) Total Salary 12) Make 13) Price. 
+      
+🌱 Data Cleaning:
+
+     There is no missing and duplicate value in the dataset. One inconsistent value presents in the
+     dataset which removed from the dataset using drop () method. There are outliers in the dataset 
+     and removed possible outliers from the dataset.
+
+ 🌱 Data Analysis:
+
+   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/dc368163-0f26-4aad-bdba-830694124961)
 
 
 
