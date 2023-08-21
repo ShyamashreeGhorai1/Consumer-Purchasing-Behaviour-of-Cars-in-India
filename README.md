@@ -99,5 +99,7 @@
     
    ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/9202865a-5c38-486d-8aad-8c0f202b691a)
 
+   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/ab06a52a-1862-4642-a8d5-f2bea178b0dd)
+
 
  
