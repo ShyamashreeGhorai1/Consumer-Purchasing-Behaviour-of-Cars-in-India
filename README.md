@@ -37,6 +37,8 @@
  🌱 Data Analysis:
 
    ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/dc368163-0f26-4aad-bdba-830694124961)
+   
+   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/280c2aad-311a-43db-9b56-6ed0ea29028c)
 
 
 
