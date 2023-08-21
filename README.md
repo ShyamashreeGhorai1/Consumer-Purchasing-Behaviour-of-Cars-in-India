@@ -126,10 +126,14 @@
 
     Observation:
 
-        • In cluster 3, Salaried and Business professional are almost same. In case of other cluster, salaried professional are more than Business professional.
-        • Cluster 0, Cluster 1 and Cluster 2 do not contain customer with 'Single' Marrital Status. In case of Cluster 3, most of the customers are single.
+        • In cluster 3, Salaried and Business professional are almost same. In case of other cluster,
+         salaried professional are more than Business professional.
+        • Cluster 0, Cluster 1 and Cluster 2 do not contain customer with 'Single' Marrital Status. 
+          In case of Cluster 3, most of the customers are single.
         • In Cluster 1, Cluster 2 and Cluster 3, all customers are dependent.
-        • In Cluster 0, most of the customers do not have personal loan. In case of the Cluster 2, customers, have personal loan and do not have personal loan, are almost same.
+        • In Cluster 0, most of the customers do not have personal loan. In case of the Cluster 2,
+          customers, have personal loan and do not have personal loan, are almost same.
         • In Cluster 3, customers do not have any house loan.
-        • In Cluster 0 and Cluster 1, all customer’s wife engage with work. In case of cluster 2, all customer's wife do not engage with work.
+        • In Cluster 0 and Cluster 1, all customer’s wife engage with work. In case of cluster 2, 
+          all customer's wife do not engage with work.
  
