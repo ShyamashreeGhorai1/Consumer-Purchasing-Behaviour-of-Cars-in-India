@@ -18,5 +18,5 @@
        affect the purchasing rate of the cars. Objective of this study is to analyse the consumer
        behaviour for purchasing cars in India to improve the car sales from the dealer.
 
-          ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/8b1b2a04-c883-4529-9ae3-4f30b04e3d1f)
+![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/8b1b2a04-c883-4529-9ae3-4f30b04e3d1f)
     
