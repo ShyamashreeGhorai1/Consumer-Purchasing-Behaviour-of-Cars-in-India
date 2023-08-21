@@ -66,4 +66,12 @@
 
    ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/18197ba0-328d-4dae-9d6f-8cee4fe66dbc)
 
+       Interpretation:
+
+           • The column PC1 indicates how the first principal component is composed of the original 
+           variables. For the first principal component total Salary, Wife Salary and Age are important
+           variables. For the second principal component Personal loan, House Loan and No of Dependents
+           are important variables. For the third principal component Wife Working and Salary are 
+           important variables.
+
  
