@@ -49,6 +49,11 @@
      Observation:
        • Major part of consumers purchased car with brand baleno, suv and creata.
 
+   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/2d72168b-2cc0-4e1c-bb75-9cfad455bbfb)
+
+      Observation:
+        • Correlation found between:  price and no of dependents, salary and total salary, 
+          salary and age, price and total salary, wife salary and total salary, wife salary and price.
 
 
        
