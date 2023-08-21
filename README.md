@@ -58,7 +58,8 @@
 🌱 Data Pre-processing:
 
       There are categorical features in the dataset. So, converted categorical features into numerical
-      value using replace () method. After this standardized the dataset using preprocessing.scale () technique.
+      value using replace () method. After this standardized the dataset using preprocessing.scale ()
+      technique.
 
  🌱 Segmantation:
 
