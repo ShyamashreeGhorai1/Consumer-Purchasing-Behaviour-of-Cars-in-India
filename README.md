@@ -44,4 +44,12 @@
       • Major part of consumers are salaried and married. Also do not have any personal loan and house loan.
       • Consumers with post graduate are more visible than graduate in the dataset.
 
-    
+   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/b0a30950-7fe0-4972-bb6b-4700445a635c)
+
+     Observation:
+       • Major part of consumers purchased car with brand baleno, suv and creata.
+
+
+
+       
+ 
