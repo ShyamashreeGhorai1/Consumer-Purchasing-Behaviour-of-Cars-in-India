@@ -82,6 +82,22 @@
            direction, attributes Total Salary, Make, Education, Profession point in the same direction 
            and Price, Wife Salary, Wife Working point in the same direction.
 
-   
+   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/39cd9f8b-cc47-48de-b183-836934d8200a)
+
+       Observation:
+
+          • From Elbow method, we observe an elbow at k = 4.
+
+    ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/ce40e5a5-a055-4936-b4f8-6463dd4facce)
+
+       Observation:
+
+          • From Dendrogram, we observe 4 clusters. 
+
+
+    Cluster Visualization:
+    
+    ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/9202865a-5c38-486d-8aad-8c0f202b691a)
+
 
  
