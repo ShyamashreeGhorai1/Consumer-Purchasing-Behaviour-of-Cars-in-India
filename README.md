@@ -1,5 +1,5 @@
 
-💭 Feynn Labs Internship
+💭 Feynn Labs Internship 💭
 
 
 
@@ -55,6 +55,9 @@
         • Correlation found between:  price and no of dependents, salary and total salary, 
           salary and age, price and total salary, wife salary and total salary, wife salary and price.
 
+🌱 Data Pre-processing:
 
+      There are categorical features in the dataset. So, converted categorical features into numerical
+      value using replace () method. After this standardized the dataset using preprocessing.scale () technique.
        
  
