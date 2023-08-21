@@ -75,12 +75,12 @@
            important variables.
    ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/d452fcb5-95d4-42a8-b45f-ce3535062cd8)
 
-      Interpretation:
+       Interpretation:
 
           • From the above figure, we can say that Personal loan, House Loan, No of Dependents are quite
-          unique. We can be interpreted as: attributes Age, Marrital Status, Salary point in the same 
-          direction, attributes Total Salary, Make, Education, Profession point in the same direction 
-          and Price, Wife Salary, Wife Working point in the same direction.
+           unique. We can be interpreted as: attributes Age, Marrital Status, Salary point in the same 
+           direction, attributes Total Salary, Make, Education, Profession point in the same direction 
+           and Price, Wife Salary, Wife Working point in the same direction.
 
    
 
