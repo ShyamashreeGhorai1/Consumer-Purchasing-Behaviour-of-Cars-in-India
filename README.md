@@ -59,5 +59,11 @@
 
       There are categorical features in the dataset. So, converted categorical features into numerical
       value using replace () method. After this standardized the dataset using preprocessing.scale () technique.
-       
+
+ 🌱 Segmantation:
+
+       PCA has been applied on the dataset. 
+
+   ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/18197ba0-328d-4dae-9d6f-8cee4fe66dbc)
+
  
