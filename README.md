@@ -40,6 +40,8 @@
    
    ![image](https://github.com/ShyamashreeGhorai1/Consumer-Purchasing-Behaviour-of-Cars-in-India/assets/131132617/280c2aad-311a-43db-9b56-6ed0ea29028c)
 
-
+    Observation:
+      • Major part of consumers are salaried and married. Also do not have any personal loan and house loan.
+      • Consumers with post graduate are more visible than graduate in the dataset.
 
     
